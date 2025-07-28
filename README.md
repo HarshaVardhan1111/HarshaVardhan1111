@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshaavardhan S</h1>
 
 <p align="center">
-🚀 DevOps & Automation Enthusiast | 🐍 Python Developer | ☁️ Cloud Learner  
+🚀 DevOps & Automation Enthusiast | 🐍 Python Enthusiast | ☁️ Cloud Learner  
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔭 Currently working as **Ad Operations Coordinator - 1** at **Comcast**
 - ⚙️ Building: **Server Health Monitoring & Automation Platform** (FastAPI, Docker, Kubernetes, Prometheus, Grafana)
 - 🌱 Learning more about **Cloud-native DevOps**, **SRE practices**, and **Infrastructure as Code**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshaavardhanrs@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
 - 📁 Check out my featured projects and code below!
 
 ---
@@ -57,7 +57,7 @@
 ### 🙌 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshaa-hv/)
-- 📧 Email: harshaavardhanrs@gmail.com
+- 📧 Email: harshajeys.11@gmail.com
 
 ---
 
