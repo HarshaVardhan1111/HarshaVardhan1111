@@ -7,9 +7,14 @@
 
 
 <p align="center">
-  <b>DevOps Engineer</b> &nbsp;|&nbsp; <b>Python Developer</b> <br>
-  Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; FastAPI &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana
+  <b>DevOps Engineer</b> &nbsp;|&nbsp; <b>Python Developer</b>
 </p>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🚀 Docker &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; 🐘 PostgreSQL &nbsp;•&nbsp; 📈 Prometheus &nbsp;•&nbsp; 📊 Grafana
+  </marquee>
+</p>
+
 
 ---
 
