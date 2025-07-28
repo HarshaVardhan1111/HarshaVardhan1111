@@ -1,64 +1,63 @@
-
 <h1 align="center">Hi 👋, I'm Harshaavardhan S</h1>
 
 <p align="center">
-🚀 DevOps & Automation Enthusiast | 🐍 Python Enthusiast | ☁️ Cloud Learner  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&multiline=true&width=600&lines=DevOps+Engineer+%7C+Python+Developer;Cloud+%7C+Infra+Automation+%7C+Monitoring;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Grafana+%7C+Prometheus" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently working as **Ad Operations Coordinator - 1** at **Comcast**
-- ⚙️ Building: **Server Health Monitoring & Automation Platform** (FastAPI, Docker, Kubernetes, Prometheus, Grafana)
-- 🌱 Learning more about **Cloud-native DevOps**, **SRE practices**, and **Infrastructure as Code**
+- 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
+- 🔧 Currently building: `Server Health Monitoring & Automation Platform`
+- 🧠 Learning more about `Cloud-native DevOps`, `SRE`, and `Infrastructure as Code`
+- 💬 Ask me about: Python, FastAPI, Docker, PostgreSQL, CI/CD, Monitoring
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
-- 📁 Check out my featured projects and code below!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Languages & Scripting:**  
-`Python` `SQL` `Bash`
-
-**Frameworks & Tools:**  
-`FastAPI` `Docker` `Kubernetes` `PostgreSQL` `Prometheus` `Grafana`  
-`Git` `GitHub Actions` `Linux CLI` `REST API`
-
-**DevOps & Monitoring:**  
-`CI/CD` `System Metrics` `Automation Scripts`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://harshaavardhan-rs.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=default" height="170" />
-  <img src="https://harshaavardhan-rs.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact" height="170" />
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-🔧 **Server Health Monitoring & Automation Platform**  
-> A monitoring system built with FastAPI, Docker, PostgreSQL, Prometheus, Grafana & Kubernetes.
+- 🔧 [**Server Health Monitoring & Automation Platform**](https://github.com/HarshaVardhan1111/Server-Health-Monitoring-Automation-Platform)  
+  Real-time system health monitoring using FastAPI, Prometheus, PostgreSQL, Grafana, and Dockerized Kubernetes deployment.
 
-📦 GitHub: [Server Health Monitoring & Automation Platform](https://github.com/HarshaVardhan1111/Server-Health-Monitoring-Automation-Platform)
-
-🧠 **Spark AI – Study Assistant**  
-> AI-powered study flashcard web app with React, Tailwind, OpenAI, Firebase, Supabase, and Groq.
-
-📦 GitHub: [Spark AI](https://github.com/HarshaVardhan1111/Spark-AI)
+- ⚡ [**Spark AI – Study Assistant**](https://github.com/HarshaVardhan1111/Spark-AI)  
+  AI-powered flashcard and quiz app using OpenAI, Groq, Supabase, Firebase, React, and TailwindCSS.
 
 ---
 
-### 🙌 Let's Connect
+### 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=github_dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=github_dark" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhan1111&theme=darkhub&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshaa-hv/)
 - 📧 Email: harshajeys.11@gmail.com
 
 ---
 
-*Thank you for visiting my GitHub! 🙏*
+<p align="center">Thanks for visiting! ⭐ Feel free to explore my work!</p>
