@@ -47,18 +47,35 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Insights
+
+<div align="center">
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" 
+    width="48%" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=github_dark&hide_border=true" 
+    width="48%" 
+  />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-  <a href="https://github.com/HarshaVardhan1111">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/HarshaVardhan1111">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=HarshaVardhan1111&theme=onedark&no-frame=true&row=1&margin-w=15" 
+    width="100%" 
+  />
 
 </div>
+
 
 ---
 
