@@ -65,14 +65,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhan1111&theme=gruvbox&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
-</div>
-
-
----
 
 ### 🤝 Let's Connect
 
