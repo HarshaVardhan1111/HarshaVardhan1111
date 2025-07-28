@@ -54,16 +54,18 @@
 
 <div align="center">
 
-  <!-- Contribution streak animation -->
-  <img src="https://streak-stats.demolab.com?user=HarshaVardhan1111&theme=github-dark&hide_border=true&ring=3DDC84&fire=DD2727&currStreakLabel=DD2727" width="90%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4c8eda&text_color=333&title_color=4c8eda" 
+    width="48%" 
+  />
 
-  <br/><br/>
-
-  <!-- Stats and Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=4c8eda" 
+    width="48%" 
+  />
 
 </div>
+
 
 ---
 
