@@ -44,16 +44,27 @@
 
 ---
 
-### 📈 GitHub Stats & Trophies
+## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=github_dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=github_dark" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhan1111&theme=darkhub&margin-w=10&no-frame=true" />
-</p>
+  <a href="https://github.com/HarshaVardhan1111">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=radical&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/HarshaVardhan1111">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&theme=radical&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhan1111&theme=gruvbox&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Contributions" />
+</div>
+
 
 ---
 
