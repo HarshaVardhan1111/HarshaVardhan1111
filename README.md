@@ -56,15 +56,16 @@
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4c8eda&text_color=333&title_color=4c8eda" 
-    width="48%" 
+    width="40%" 
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=4c8eda" 
-    width="48%" 
+    width="40%" 
   />
 
 </div>
+
 
 
 ---
