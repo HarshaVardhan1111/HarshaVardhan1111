@@ -7,13 +7,12 @@
 
 
 <p align="center">
-  <b>DevOps Engineer</b> &nbsp;|&nbsp; <b>Python Developer</b>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=DevOps+Engineer+%7C+Python+Developer;Docker+%7C+Kubernetes+%7C+FastAPI+%7C+PostgreSQL;Prometheus+%7C+Grafana" 
+    alt="Typing SVG" 
+  />
 </p>
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    🚀 Docker &nbsp;•&nbsp; ☸️ Kubernetes &nbsp;•&nbsp; ⚡ FastAPI &nbsp;•&nbsp; 🐘 PostgreSQL &nbsp;•&nbsp; 📈 Prometheus &nbsp;•&nbsp; 📊 Grafana
-  </marquee>
-</p>
+
 
 
 ---
