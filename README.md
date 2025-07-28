@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=1A73E8&center=true&vCenter=true&multiline=true&width=500&lines=DevOps+Enthusiast+%7C+Python+Developer;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Prometheus+%7C+Grafana" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=1A73E8&center=true&vCenter=true&multiline=true&width=500&lines=DevOps+Enthusiast+%7C+Python+Developer;SQL+%7C+Docker+%7C+Kubernetes+%7C+Prometheus+%7C+Grafana" 
     alt="Typing SVG" 
     style="height: 60px;" 
   />
