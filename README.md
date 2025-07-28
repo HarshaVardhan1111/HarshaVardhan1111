@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=default" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact" height="170" />
+  <img src="https://harshaavardhan-rs.vercel.app/api?username=HarshaVardhan1111&show_icons=true&theme=default" height="170" />
+  <img src="https://harshaavardhan-rs.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact" height="170" />
 </p>
 
 ---
