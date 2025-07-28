@@ -1,11 +1,15 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=435&height=60&lines=Hello!+I'm+Harshaavardhan;I+do+DevOps+%26+Automation+%F0%9F%94%A7" />
-</p>
+<h1 align="center">Hi 👋, I'm Harshaavardhan RS</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=007ACC&center=true&vCenter=true&multiline=true&width=600&height=45&lines=DevOps+Engineer+%7C+Python+Developer;Docker+%7C+Kubernetes+%7C+FastAPI+%7C+PostgreSQL;Monitoring+with+Prometheus+and+Grafana" 
-    alt="Typing SVG" />
+    src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&lines=I+do+DevOps+%26+Automation+💻" 
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <b>DevOps Engineer</b> &nbsp;|&nbsp; <b>Python Developer</b> <br>
+  Docker &nbsp;|&nbsp; Kubernetes &nbsp;|&nbsp; FastAPI &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Prometheus &nbsp;|&nbsp; Grafana
 </p>
 
 ---
