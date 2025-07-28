@@ -6,12 +6,6 @@
     alt="Typing SVG" />
 </p>
 
-</p>
-
-
-
-
-
 ---
 
 ### 🧑‍💻 About Me
