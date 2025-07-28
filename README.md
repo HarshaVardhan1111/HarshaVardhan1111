@@ -2,11 +2,14 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&multiline=true&width=600&lines=DevOps+Engineer+%7C+Python+Enthusiast;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Grafana+%7C+Prometheus" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&multiline=true&width=600&lines=DevOps+Enthusiast+%7C+Python+Enthusiast;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Grafana+%7C+Prometheus" 
     alt="Typing SVG" 
     style="height: 80px;" 
   />
 </p>
+
+
+
 
 ---
 
