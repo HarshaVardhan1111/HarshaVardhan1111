@@ -2,11 +2,12 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A3FF&center=true&vCenter=true&multiline=true&width=600&lines=DevOps+Enthusiast+%7C+Python+Enthusiast;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Grafana+%7C+Prometheus" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=800&color=1A73E8&center=true&vCenter=true&multiline=true&width=500&lines=DevOps+Enthusiast+%7C+Python+Developer;FastAPI+%7C+Docker+%7C+Kubernetes+%7C+Prometheus+%7C+Grafana" 
     alt="Typing SVG" 
-    style="height: 80px;" 
+    style="height: 60px;" 
   />
 </p>
+
 
 
 
@@ -52,19 +53,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&icon_color=4c8eda&text_color=333&title_color=4c8eda" 
-    width="40%" 
+    src="https://github-readme-stats.vercel.app/api?username=HarshaVardhan1111&show_icons=true&hide_border=true&title_color=007acc&text_color=333&icon_color=007acc&bg_color=ffffff00" 
+    width="44%" 
   />
-
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=4c8eda" 
-    width="40%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhan1111&layout=compact&hide_border=true&title_color=007acc&text_color=333&bg_color=ffffff00" 
+    width="44%" 
   />
+</p>
 
-</div>
 
 
 
