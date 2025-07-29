@@ -7,13 +7,12 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
-- 🔧 Currently building: `Server Health Monitoring & Automation Platform`
-- 🧠 Learning more about `Cloud-native DevOps`, `SRE`, and `Infrastructure as Code`
-- 💬 Ask me about: Python, FastAPI, Docker, PostgreSQL, CI/CD, Monitoring
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
+- Currently building: `Server Health Monitoring & Automation Platform`
+- Learning more about `Cloud-native DevOps`, `SRE`, and `Infrastructure as Code`
+- Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
 
 ---
 
@@ -60,7 +59,7 @@
 ---
 
 
-### 🤝 Let's Connect
+### Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/harshaa-hv/)
 - 📧 Email: harshajeys.11@gmail.com
