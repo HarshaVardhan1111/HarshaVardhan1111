@@ -11,12 +11,12 @@
 
 - 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
 - Currently building: `Server Health Monitoring & Automation Platform`
-- Learning more about `Cloud-native DevOps`, `SRE`, and `Infrastructure as Code`
+- Learning more about `DevOps`, `SRE`, and `Infrastructure as Code`
 - Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" /> &nbsp;
@@ -33,7 +33,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - 🔧 [**Server Health Monitoring & Automation Platform**](https://github.com/HarshaVardhan1111/Server-Health-Monitoring-Automation-Platform)  
   Real-time system health monitoring using FastAPI, Prometheus, PostgreSQL, Grafana, and Dockerized Kubernetes deployment.
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
