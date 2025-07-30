@@ -12,7 +12,7 @@
 - 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
 - Currently building: `Server Health Monitoring & Automation Platform`
 - Learning more about `DevOps`, `SRE`, and `Infrastructure as Code`
-- Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
+- Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com | [Personal Portfolio](https://harshaavardhan-s.vercel.app/)
 
 ---
 
