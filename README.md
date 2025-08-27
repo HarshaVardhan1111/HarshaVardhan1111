@@ -41,7 +41,7 @@
 - 🔧 [**Server Health Monitoring & Automation Platform**](https://github.com/HarshaVardhan1111/Server-Health-Monitoring-Automation-Platform)  
   Real-time system health monitoring using FastAPI, Prometheus, PostgreSQL, Grafana, and Dockerized Kubernetes deployment.
 
-- ⚡ [**Spark AI – Study Assistant**](https://github.com/HarshaVardhan1111/Spark-AI)  
+- ⚡ [**Qubit AI – Study Assistant**](https://github.com/HarshaVardhan1111/AlphaSparkAI.git)  
   AI-powered flashcard and quiz app using OpenAI, Groq, Supabase, Firebase, React, and TailwindCSS.
 
 ---
