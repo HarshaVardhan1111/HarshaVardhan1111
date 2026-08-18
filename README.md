@@ -10,9 +10,9 @@
 ### About Me
 
 - 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
-- Currently building: `Server Health Monitoring & Automation Platform`
-- Learning more about `DevOps`, `SRE`, and `Infrastructure as Code`
-- Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com | [Personal Portfolio](https://harshaavardhan-s.vercel.app/)
+- Currently building: `ConfigDrift project`
+- Current Learning Path `AI/ML`, `AI agents (tools, planning, memory) → Multi-agent patterns → AI system design → Capstone → scikit-learn → Machine learning fundamentals → Feature engineering → Model evaluation → PyTorch → Deep learning → NLP → Transformers → Fine-tuning (LoRA/QLoRA)`
+- Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
 
 ---
 
@@ -21,7 +21,6 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40px" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="40px" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40px" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40px" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40px" /> &nbsp;
@@ -31,7 +30,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40px" /> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40px" /> &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40px" /> &nbsp;
 </div>
 
 ---
