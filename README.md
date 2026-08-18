@@ -51,7 +51,7 @@ gets practiced, tested, and used in a real project before I mark it done.
 | ✅ | **NumPy** | Arrays, vectorization, broadcasting, aggregations |
 | ✅ | **Pandas** | Cleaning, merging, grouping, reshaping, time series |
 | ✅ | **Linux** | Shell navigation, permissions, pipes, process and log handling |
-| 🔄 | **Git & GitHub** | Branching, merging, remotes, collaborative workflows |
+| ✅ | **Git & GitHub** | Branching, merging, remotes, collaborative workflows |
 | 🔜 | **Statistics · Visualization · scikit-learn** | Next up |
 | 🔜 | **APIs · FastAPI · Docker · MLOps** | Deployment and production track |
 | 🔜 | **NLP · Embeddings · Vector DBs · RAG · LLM Apps** | AI engineering track |
