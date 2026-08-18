@@ -9,7 +9,7 @@
 
 ### About Me
 
-- 🏢 **Ad Operations Coordinator - 1** @ **Comcast**
+- 🏢 **Ad Operations Analyst - 1** @ **Comcast**
 - Currently building: `ConfigDrift project`
 - Current Learning Path `AI/ML`, `AI agents (tools, planning, memory) → Multi-agent patterns → AI system design → Capstone → scikit-learn → Machine learning fundamentals → Feature engineering → Model evaluation → PyTorch → Deep learning → NLP → Transformers → Fine-tuning (LoRA/QLoRA)`
 - Reach me: [LinkedIn](https://www.linkedin.com/in/harshaa-hv/) | harshajeys.11@gmail.com
