@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/harshaa-hv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/linkedin.com/in/harshaa-hv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:harshajeys.11@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Chennai,%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
