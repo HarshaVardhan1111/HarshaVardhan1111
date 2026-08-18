@@ -1,11 +1,3 @@
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Caveat&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello!+I'm+Harshaavardhan+S" 
-    alt="Typing SVG"
-  />
-</p>
-
----
 <h1 align="center">Hi, I'm Harshaavardhan S 👋</h1>
 
 <p align="center">
