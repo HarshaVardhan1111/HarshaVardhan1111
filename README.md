@@ -36,12 +36,8 @@
 
 ### Featured Projects
 
-- 🔧 [**Server Health Monitoring & Automation Platform**](https://github.com/HarshaVardhan1111/Server-Health-Monitoring-Automation-Platform)  
-  Real-time system health monitoring using FastAPI, Prometheus, PostgreSQL, Grafana, and Dockerized Kubernetes deployment.
-
-- ⚡ [**Qubit AI – Study Assistant**](https://github.com/HarshaVardhan1111/AlphaSparkAI.git)  
-  AI-powered flashcard and quiz app using OpenAI, Groq, Supabase, Firebase, React, and TailwindCSS.
-
+- 🔧 [**SLA-Ticket-Analytics-Tool**](https://github.com/HarshaVardhan1111/SLA-Ticket-Analytics-Tool)  
+  The **SLA Ticket Analytics Tool** is a Python-based data cleaning and analytics project designed to handle messy real-world ticket data..
 ---
 
 ## GitHub Stats
